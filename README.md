@@ -1,4 +1,4 @@
-### Hi there 👋
+![github-header-image](https://github.com/geochrs/geochrs/assets/125922884/77a797b0-f854-4c6e-b565-1e87c10dff44)
 
 <!--
 **geochrs/geochrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
