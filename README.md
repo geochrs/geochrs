@@ -1,7 +1,5 @@
 ![github-header-image](https://github.com/geochrs/geochrs/assets/125922884/77a797b0-f854-4c6e-b565-1e87c10dff44)
-# 💫 About Me:
-+🔭 I’m currently working on self-improvement.<br>+👯 I’m looking to collaborate on projects.<br>+🌱 I’m currently learning React.<br>+⚡ Fun fact it's all 0's and 1's.
-
+- 🔭 I’m currently working on self-improvement.<br> - 👯 I’m looking to collaborate on projects.<br> - 🌱 I’m currently learning React.<br> -⚡ Fun fact it's all 0's and 1's.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giwrgos-xristopoulos-833442280/) 
