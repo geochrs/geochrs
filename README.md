@@ -1,16 +1,18 @@
-![github-header-image](https://github.com/geochrs/geochrs/assets/125922884/77a797b0-f854-4c6e-b565-1e87c10dff44)
+![github-header-image (1)](https://github.com/geochrs/geochrs/assets/125922884/5a662a76-a4e8-422a-b903-723f0d1fc004)
+
+## About Me :
 - 🔭 I’m currently working on self-improvement.
 - 👯 I’m looking to collaborate on projects.
 - 🌱 I’m currently learning React.
 - ⚡ Fun fact it's all 0's and 1's.
 
-## Socials
+## Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giwrgos-xristopoulos-833442280/)
 
-# Things i code with
+## Things i code with :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# GitHub History:
+## GitHub History :
 ![](https://github-readme-stats.vercel.app/api?username=geochrs&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geochrs&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
