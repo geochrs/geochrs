@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/geochrs/geochrs/assets/125922884/5a662a76-a4e8-422a-b903-723f0d1fc004)
+![banner](https://github.com/geochrs/geochrs/assets/125922884/2a10dd0e-8507-4f21-ab6c-1d894e3911d4)
+
 
 ## About Me :
 - 🔭 I’m currently working on self-improvement.
