@@ -1,4 +1,4 @@
-![banner](https://github.com/geochrs/geochrs/assets/125922884/2a10dd0e-8507-4f21-ab6c-1d894e3911d4)
+![baaaaaaaa](https://github.com/geochrs/geochrs/assets/125922884/14b2f6c8-11c1-4575-9f4d-05cb1e23eb8a)
 
 
 ## About Me :
